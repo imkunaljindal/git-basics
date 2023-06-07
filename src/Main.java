@@ -5,5 +5,7 @@ public class Main {
         System.out.println("We will all get a good job soon!!");
 
         System.out.println("This is a change");
+
+        System.out.println("This is fourth print statement");
     }
 }
